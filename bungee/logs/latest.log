@@ -57,3 +57,6 @@
 [17:00:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60180]: Logged in as 'Eoboy'
 [17:00:54] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:60180|Eoboy] -> UpstreamBridge has connected
 [17:00:54] [Netty Worker IO Thread #0/INFO]: [Eoboy|/[0:0:0:0:0:0:0:1%0]:60180] <-> ServerConnector [lobby] has connected
+[17:34:59] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:60180|Eoboy] -> UpstreamBridge has disconnected
+[17:34:59] [Netty Worker IO Thread #0/INFO]: [Eoboy] disconnected with: Proxy lost connection to server.
+[17:34:59] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:60180|Eoboy] <-> DownstreamBridge <-> [lobby] has disconnected
