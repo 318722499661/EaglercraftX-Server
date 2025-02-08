@@ -227,3 +227,20 @@
 [17:22:07] [Server thread/INFO]: Eoboy has just earned the achievement [Taking Inventory]
 [17:34:59] [Server thread/INFO]: Eoboy lost connection: Disconnected
 [17:34:59] [Server thread/INFO]: Eoboy left the game.
+[17:36:03] [Server thread/INFO]: Stopping the server
+[17:36:03] [Server thread/INFO]: Stopping server
+[17:36:03] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[17:36:03] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[17:36:03] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[17:36:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[17:36:03] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[17:36:03] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[17:36:03] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[17:36:03] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[17:36:03] [Server thread/INFO]: Saving players
+[17:36:03] [Server thread/INFO]: Saving worlds
+[17:36:03] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:36:03] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:36:03] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
